@@ -1,0 +1,1 @@
+Update `ingest_fmp` and set your desired period and list of stocks. Then follow the steps in `example.py`, running a real algorithm, to use the bundle. Once you ingest a bundle, the next time, only register it (w/o ingestion), and Zipline will use the previously ingested data. 
